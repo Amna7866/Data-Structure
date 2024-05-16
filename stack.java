@@ -14,7 +14,7 @@ public class stack {
         stack.push("COD");
         stack.push("Assasins Creed");   
 
-        // stack.pop(); will remove the first most object from stack.
+        // stack.pop(); will remove the first most object from stack.the
         // stack.peep(); to check the first most item from stack
         //System.out.println(stack.peek()); 
 
